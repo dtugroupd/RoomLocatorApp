@@ -2,11 +2,6 @@
 
 A new Flutter project.
 
-## Continuous integration powered by Jenkins
-### Random text for test purposes
-
-Just added a bit of nonsense.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
