@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Continuous integration powered by Jenkins
+### Random text for test purposes
 
 ## Getting Started
 
